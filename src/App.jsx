@@ -1,13 +1,13 @@
-
-import CardComponent from './components/CardComponent'
+import { Button } from 'flowbite-react';
+import CardComponent from './components/CardComponent';
 
 function App() {
-
   return (
     <>
-      <CardComponent/>
+      <Button>Click me</Button>
+      <CardComponent />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

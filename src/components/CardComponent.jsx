@@ -1,4 +1,4 @@
-import { Button, Card } from "flowbite-react";
+import { Button, Card } from 'flowbite-react';
 
 function CardComponent() {
   return (
@@ -20,7 +20,7 @@ function CardComponent() {
         </svg>
       </Button>
     </Card>
-   );
+  );
 }
 
 export default CardComponent;
