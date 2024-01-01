@@ -2,7 +2,7 @@ import react from '@vitejs/plugin-react';
 import { defineConfig } from 'vite';
 import { VitePWA } from 'vite-plugin-pwa';
 
-let faviconURL = '/vit.svg';
+let faviconURL = '/vite.svg';
 
 export default defineConfig({
   plugins: [
